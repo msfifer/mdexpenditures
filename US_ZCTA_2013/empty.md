@@ -1,0 +1,1 @@
+For information about how to populate this folder see README.md in the main repo directory.
